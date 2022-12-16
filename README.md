@@ -8,7 +8,13 @@ independent information about the quality of software and risk of its failure to
   - [Black box testing](#black-box-testing)
   
 **Testing techniques and tactics:**
-  - [Regression testing](#regression-testing)
+- [Regression testing](#regression-testing)
+  
+**Testing frameworks:**
+- [**Jest**](#jest)
+  - [Mocking](#mocking)
+    - [Mock functions](#mock-functions)
+    - [Manual Mocks](#manual-mocks)
 
 # **The box approach**
 Software testing methods are traditionally divided into white- and black-block testing.These two approaches are used to describe the point of view that 
@@ -37,9 +43,22 @@ Techniques used in white-box testing include:
 Black-box testing also known as functional testing treats the software as a black box, examining functionality wihnout any knowledge of internal implementation.
 The testers are only aware of what the software is supposed to do, not how it does it
 
-# Regression testing 
+## Regression testing 
 - focuses on finding defects after a major code change has been done into the codebase
 - common methods of regression testing include re-running previous sets of test cases and checking whether previously  fixed faults have re-emerged
+
+
+
+## **Jest**
+a
+
+### Mocking
+aa
+
+#### Mock functions
+a
+
+#### Manual Mocks
 
   
   
